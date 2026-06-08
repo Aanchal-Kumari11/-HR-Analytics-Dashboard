@@ -123,7 +123,7 @@ Some of the business questions answered using SQL:
 
 ## Project Structure
 
-<pre>```text
+<pre>```
 
 HR-Analytics-Dashboard
 │
