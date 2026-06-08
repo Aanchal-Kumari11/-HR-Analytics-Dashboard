@@ -1,0 +1,101 @@
+employee_id,employee_name,gender,age,department,job_role,education,salary,joining_date,experience_years,performance_rating
+1001,Employee_1,Male,45,Operations,Operations Executive,MBA,71048,26-07-2019,4,3
+1002,Employee_2,Male,35,HR,HR Executive,MBA,113907,11-02-2024,1,3
+1003,Employee_3,Female,24,Marketing,SEO Specialist,Bachelor,63221,23-02-2019,13,4
+1004,Employee_4,Male,40,HR,HR Manager,Master,45328,21-01-2022,9,4
+1005,Employee_5,Female,33,IT,Data Analyst,Master,94429,29-10-2019,11,4
+1006,Employee_6,Male,29,Operations,Operations Executive,Bachelor,95589,31-03-2024,7,4
+1007,Employee_7,Female,42,HR,HR Manager,Master,43675,20-05-2020,4,4
+1008,Employee_8,Male,35,Finance,Accountant,MBA,108579,22-07-2024,9,4
+1009,Employee_9,Male,41,Marketing,Marketing Executive,Bachelor,55033,26-09-2022,11,3
+1010,Employee_10,Male,25,Sales,Sales Executive,MBA,105381,25-10-2021,13,4
+1011,Employee_11,Male,41,Operations,Coordinator,MBA,48947,11-09-2023,14,4
+1012,Employee_12,Female,29,Sales,Sales Executive,Master,37552,13-06-2021,2,4
+1013,Employee_13,Male,38,Marketing,Marketing Executive,Bachelor,97296,21-12-2020,9,3
+1014,Employee_14,Female,29,Operations,Operations Executive,Master,83944,11-05-2019,8,5
+1015,Employee_15,Male,50,Sales,Sales Executive,Bachelor,117719,04-10-2018,1,3
+1016,Employee_16,Male,47,Marketing,Marketing Executive,MBA,109847,22-09-2020,10,5
+1017,Employee_17,Female,23,Operations,Coordinator,Master,88883,08-02-2019,8,2
+1018,Employee_18,Female,29,IT,BI Analyst,Bachelor,90296,10-03-2023,3,4
+1019,Employee_19,Male,28,Operations,Operations Executive,Bachelor,56798,26-05-2023,7,5
+1020,Employee_20,Female,28,Finance,Financial Analyst,Master,107845,27-09-2019,11,5
+1021,Employee_21,Male,38,Operations,Coordinator,Bachelor,111569,21-08-2018,8,3
+1022,Employee_22,Male,28,HR,HR Executive,MBA,45745,04-12-2020,7,4
+1023,Employee_23,Female,36,IT,BI Analyst,Master,76441,08-02-2018,15,2
+1024,Employee_24,Male,31,Sales,Sales Manager,Master,44016,22-02-2022,15,3
+1025,Employee_25,Male,26,Operations,Coordinator,Bachelor,69664,16-03-2024,2,2
+1026,Employee_26,Female,23,Operations,Coordinator,Master,41658,07-02-2021,2,5
+1027,Employee_27,Female,39,Operations,Coordinator,MBA,36267,03-09-2019,2,2
+1028,Employee_28,Female,33,HR,HR Manager,Bachelor,81898,26-02-2019,4,3
+1029,Employee_29,Male,47,IT,Data Analyst,Master,38248,14-08-2022,3,4
+1030,Employee_30,Female,33,Operations,Operations Executive,Bachelor,96694,01-03-2023,4,3
+1031,Employee_31,Female,33,Operations,Operations Executive,Master,71517,17-02-2021,14,2
+1032,Employee_32,Female,41,HR,HR Executive,Bachelor,111099,21-03-2019,5,2
+1033,Employee_33,Female,22,Sales,Sales Executive,MBA,59914,22-11-2022,5,2
+1034,Employee_34,Female,38,Marketing,Marketing Executive,MBA,76145,15-05-2021,11,2
+1035,Employee_35,Male,31,Finance,Accountant,Master,84695,20-05-2024,11,3
+1036,Employee_36,Female,37,IT,Software Engineer,Master,92905,25-09-2023,8,3
+1037,Employee_37,Male,22,Operations,Coordinator,Bachelor,75687,27-08-2019,4,3
+1038,Employee_38,Female,50,Operations,Operations Executive,Master,87383,23-01-2018,4,3
+1039,Employee_39,Male,39,HR,HR Executive,Master,52477,16-12-2023,13,5
+1040,Employee_40,Male,48,Sales,Sales Manager,MBA,97216,09-10-2020,8,4
+1041,Employee_41,Female,32,IT,Software Engineer,Bachelor,72450,07-10-2021,4,4
+1042,Employee_42,Male,36,Operations,Operations Executive,Bachelor,89377,01-02-2024,7,4
+1043,Employee_43,Female,49,Sales,Sales Executive,Master,35772,17-05-2022,6,4
+1044,Employee_44,Female,34,Sales,Sales Executive,Bachelor,70774,29-04-2018,7,5
+1045,Employee_45,Male,42,Marketing,Marketing Executive,Master,112580,10-12-2018,10,2
+1046,Employee_46,Female,30,Finance,Financial Analyst,Bachelor,94598,02-04-2022,6,4
+1047,Employee_47,Female,29,Operations,Operations Executive,Bachelor,43993,08-05-2018,13,2
+1048,Employee_48,Male,41,Operations,Operations Executive,Master,68586,19-11-2019,13,4
+1049,Employee_49,Female,40,HR,HR Executive,MBA,84192,08-11-2018,7,3
+1050,Employee_50,Male,38,Operations,Operations Executive,Master,104827,10-10-2018,7,4
+1051,Employee_51,Female,42,Marketing,SEO Specialist,MBA,55052,08-11-2023,7,3
+1052,Employee_52,Female,46,Marketing,SEO Specialist,Bachelor,46359,25-09-2020,5,5
+1053,Employee_53,Female,32,HR,HR Manager,Bachelor,98904,24-11-2020,4,4
+1054,Employee_54,Male,42,Sales,Sales Executive,Bachelor,88271,05-05-2023,8,3
+1055,Employee_55,Male,38,IT,Software Engineer,Master,111225,17-03-2024,6,5
+1056,Employee_56,Female,32,Operations,Coordinator,Master,67951,28-02-2020,4,2
+1057,Employee_57,Female,48,Operations,Coordinator,MBA,112278,16-02-2019,13,4
+1058,Employee_58,Female,42,Operations,Operations Executive,Bachelor,42146,02-06-2019,9,4
+1059,Employee_59,Female,48,Marketing,SEO Specialist,Bachelor,41734,13-04-2019,5,5
+1060,Employee_60,Female,41,IT,BI Analyst,Bachelor,67530,19-10-2024,2,5
+1061,Employee_61,Female,45,Marketing,SEO Specialist,Master,109531,02-11-2024,10,2
+1062,Employee_62,Male,37,IT,Data Analyst,Bachelor,35350,29-08-2024,7,5
+1063,Employee_63,Male,25,Marketing,Marketing Executive,Master,116927,08-10-2022,10,3
+1064,Employee_64,Male,25,IT,Data Analyst,Bachelor,75319,04-12-2022,10,4
+1065,Employee_65,Female,41,Finance,Financial Analyst,Bachelor,113385,13-08-2021,1,5
+1066,Employee_66,Male,27,Operations,Coordinator,Bachelor,96669,13-02-2021,9,5
+1067,Employee_67,Female,35,Finance,Financial Analyst,Master,48710,12-09-2021,14,3
+1068,Employee_68,Female,46,Sales,Sales Executive,Bachelor,76224,20-04-2019,5,4
+1069,Employee_69,Male,46,Marketing,Marketing Executive,MBA,82419,16-12-2022,10,5
+1070,Employee_70,Male,31,Operations,Coordinator,Bachelor,117578,11-10-2019,10,3
+1071,Employee_71,Male,44,HR,HR Manager,MBA,55181,16-09-2023,8,4
+1072,Employee_72,Female,30,Marketing,Marketing Executive,Bachelor,113561,13-10-2018,9,3
+1073,Employee_73,Female,36,HR,HR Manager,MBA,111011,01-09-2019,11,5
+1074,Employee_74,Female,34,Sales,Sales Manager,Master,59727,31-05-2024,12,3
+1075,Employee_75,Male,49,Marketing,SEO Specialist,Master,39852,16-02-2019,3,4
+1076,Employee_76,Male,41,IT,Software Engineer,Bachelor,96537,18-10-2021,13,4
+1077,Employee_77,Female,29,Operations,Coordinator,MBA,98956,08-10-2018,14,2
+1078,Employee_78,Male,50,HR,HR Manager,MBA,48173,11-05-2021,8,3
+1079,Employee_79,Male,27,Finance,Financial Analyst,Bachelor,104621,28-11-2019,7,3
+1080,Employee_80,Male,43,Sales,Sales Executive,Master,118611,11-11-2020,5,5
+1081,Employee_81,Female,49,Marketing,SEO Specialist,MBA,90615,15-02-2023,12,4
+1082,Employee_82,Female,22,Marketing,SEO Specialist,MBA,73696,29-01-2021,1,5
+1083,Employee_83,Female,42,Sales,Sales Manager,Bachelor,114569,16-06-2020,13,4
+1084,Employee_84,Female,24,HR,HR Executive,Master,39373,23-06-2019,10,4
+1085,Employee_85,Female,30,IT,BI Analyst,MBA,100771,05-11-2019,15,4
+1086,Employee_86,Male,33,HR,HR Manager,Bachelor,64571,01-04-2024,14,5
+1087,Employee_87,Female,22,Finance,Financial Analyst,MBA,83689,16-04-2023,2,3
+1088,Employee_88,Female,23,HR,HR Manager,MBA,88516,05-07-2018,2,3
+1089,Employee_89,Female,45,Sales,Sales Executive,Master,83629,02-08-2024,11,5
+1090,Employee_90,Female,29,Marketing,SEO Specialist,Bachelor,83566,27-12-2022,4,5
+1091,Employee_91,Male,24,Operations,Coordinator,Master,71160,06-02-2023,4,2
+1092,Employee_92,Male,28,Finance,Accountant,MBA,61896,29-07-2024,2,3
+1093,Employee_93,Female,22,IT,Data Analyst,Bachelor,49408,24-06-2019,11,2
+1094,Employee_94,Male,37,IT,Software Engineer,Bachelor,90176,18-09-2018,9,2
+1095,Employee_95,Male,23,Sales,Sales Executive,MBA,103347,08-05-2018,5,5
+1096,Employee_96,Male,26,Operations,Coordinator,Bachelor,77219,27-09-2018,10,3
+1097,Employee_97,Female,47,Finance,Financial Analyst,Master,101263,11-02-2019,10,5
+1098,Employee_98,Female,35,IT,Software Engineer,Bachelor,89239,22-06-2022,6,5
+1099,Employee_99,Male,24,Finance,Financial Analyst,MBA,97163,16-12-2018,2,2
+1100,Employee_100,Male,35,IT,BI Analyst,MBA,108608,16-05-2019,9,4
