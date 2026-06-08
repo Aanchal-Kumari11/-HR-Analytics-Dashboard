@@ -134,13 +134,10 @@ HR-Analytics-Dashboard
 │   └── Training.csv
 │
 ├── SQL
-│   └── hr_queries.sql
+│   └── SQL_queries.sql
 │
 ├── PowerBI
 │   └── HR_Analytics_Dashboard.pbix
-│
-├── Screenshots
-│   └── dashboard.png
 │
 └── README.md
   </pre>
